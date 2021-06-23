@@ -1,4 +1,14 @@
-.App {
+body{
+  background-image: url('./assets/btn_bg.jpg');
+}
+h1,h2,h3,h4,p{
+  color: white;
+}
+.App-header{
+  text-align: center;
+  padding: 15px 0;
+}
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +45,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
