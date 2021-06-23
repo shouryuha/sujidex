@@ -1,0 +1,34 @@
+{
+    "sujimon": [
+        {
+            "name": "Burnout Bully",
+            "iamge": "",
+            "number": 1,
+            "category": "Businessman",
+            "Weaknesses":"Blunt, Bullet, Fire, Electric",
+            "location": "Isezaki Ijincho",
+            "map": "comercial-district",
+            "features": ""
+        },
+        {
+            "name": "Capitalist Punisher",
+            "iamge": "img",
+            "number": 2,
+            "category": "Businessman",
+            "Weaknesses":"Blunt, Bullet, Fire, Electric",
+            "location": "Isezaki Ijincho",
+            "map": "jinnai-station",
+            "features": ""          
+        },
+        {
+            "name": "Dotcombatant",
+            "iamge": "img",
+            "number": 3,
+            "category": "Businessman",
+            "Weaknesses":"Electric",
+            "location": "locat",
+            "map": "jinnai-station",
+            "features": ""          
+        }
+    ]
+}
